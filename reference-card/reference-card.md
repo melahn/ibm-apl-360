@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <title>IBM APL 360 Reference Card</title>
-</head>
 <body>
 <h1>IBM APL 360 Reference Card</h1>
 <a href="./"2021-02-14-16-57-0005.jpg>Page 1</a>
